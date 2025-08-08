@@ -68,3 +68,42 @@ section{
   font-weight: 400;
   font-style: normal;
 }
+
+#About p{
+    font-size: 21px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#About {
+    background-color: antiquewhite;
+}
+
+/***product***/
+#Product{
+    background-color: antiquewhite !important;
+}
+
+#Product h1{
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+#Product img{
+    width: 300px;
+    height: 395px;
+    
+    
+}
+
+.card{
+    
+    background-color: antiquewhite !important;
+    border: none !important; 
+    
+    overflow:hidden;
+    justify-content:center;
+    align-items: center;
+    margin: 20px 60px;
+}
